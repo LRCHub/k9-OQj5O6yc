@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "消えない温度",
+  "base_artist": "KotoHa",
+  "createdAt": "2026-02-28T04:14:15.437463Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えない温度",
+      "artist": "Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_消えない温度_Kotoha.txt"
+    }
+  ]
+}
